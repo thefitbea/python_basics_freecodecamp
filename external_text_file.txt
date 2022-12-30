@@ -1,0 +1,3 @@
+Hi external file read successfully
+this is the second line
+third
