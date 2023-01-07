@@ -1,2 +1,10 @@
-pyhton interpreter is a sandbox where program is run.
+python interpreter is a sandbox where program is run.
 like bytecode conversion in java same stuff
+
+type python in cmd, not pyhton 3
+this is the python interpreter
+
+u can type print("Hello World") it will display Hello World
+basically run python commands basic ones just to test out
+
+very powerful
