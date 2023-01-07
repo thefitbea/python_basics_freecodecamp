@@ -1,0 +1,2 @@
+pyhton interpreter is a sandbox where program is run.
+like bytecode conversion in java same stuff
